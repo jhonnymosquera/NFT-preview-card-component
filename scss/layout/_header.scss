@@ -1,0 +1,13 @@
+@use 'base/variables' as v;
+
+.header {
+	background-color: v.$bg-cad;
+	padding: 20rem 0;
+	text-align: center;
+	margin-bottom: 100rem;
+
+	h1 {
+		color: v.$blanco;
+		margin: 0;
+	}
+}
